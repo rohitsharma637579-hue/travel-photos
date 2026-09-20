@@ -1,0 +1,74 @@
+[
+  {
+    "id": "kedarnath",
+    "name": "Kedarnath",
+    "region": "Uttarakhand",
+    "lat": 30.7352,
+    "lng": 79.0669,
+    "elevation": 3583,
+    "date": "",
+    "story": "",
+    "cover": "",
+    "photos": []
+  },
+  {
+    "id": "madhyamaheshwar",
+    "name": "Madhyamaheshwar",
+    "region": "Uttarakhand",
+    "lat": 30.6353,
+    "lng": 79.2138,
+    "elevation": 3289,
+    "date": "",
+    "story": "",
+    "cover": "",
+    "photos": []
+  },
+  {
+    "id": "tungnath",
+    "name": "Tungnath",
+    "region": "Uttarakhand",
+    "lat": 30.49,
+    "lng": 79.217,
+    "elevation": 3680,
+    "date": "",
+    "story": "",
+    "cover": "",
+    "photos": []
+  },
+  {
+    "id": "munsiyari",
+    "name": "Munsiyari",
+    "region": "Uttarakhand",
+    "lat": 30.0667,
+    "lng": 80.2333,
+    "elevation": 2200,
+    "date": "",
+    "story": "",
+    "cover": "",
+    "photos": []
+  },
+  {
+    "id": "rishikesh",
+    "name": "Rishikesh",
+    "region": "Uttarakhand",
+    "lat": 30.0869,
+    "lng": 78.2676,
+    "elevation": 372,
+    "date": "",
+    "story": "",
+    "cover": "",
+    "photos": []
+  },
+  {
+    "id": "jaipur",
+    "name": "Jaipur",
+    "region": "Rajasthan",
+    "lat": 26.9124,
+    "lng": 75.7873,
+    "elevation": 431,
+    "date": "",
+    "story": "",
+    "cover": "",
+    "photos": []
+  }
+]
