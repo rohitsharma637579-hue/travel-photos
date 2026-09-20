@@ -67,7 +67,11 @@
     "date": "",
     "story": "",
     "cover": "",
-    "photos": []
+    "photos": ["photos/kedarnath/r1.jpg",
+      "photos/kedarnath/r2.jpg",
+      "photos/kedarnath/r3.jpg",
+      "photos/kedarnath/r4.jpg",
+      "photos/kedarnath/r5.jpg"]
   },
   {
     "id": "jaipur",
