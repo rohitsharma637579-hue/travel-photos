@@ -713,3 +713,56 @@ body .chip:not([aria-pressed="true"]):hover{background:#FFF0DC;border-color:var(
 </script>
 </body>
 </html>
+<style>
+/* ===== Colour themes for the pale areas (extra layer; nothing else changed) ===== */
+body{
+  --sun:#FFB86B; --mint:#7FD1C7; --rose:#F58FA3; --sky:#9DB7FF; --lilac:#C9A7F5;
+  --rainbow:linear-gradient(90deg,var(--sun),var(--rose),var(--lilac),var(--sky),var(--mint));
+}
+body .block{position:relative}
+
+/* home page sections */
+body .featured{background-image:
+  radial-gradient(38rem 26rem at 96% 6%,rgba(255,184,107,0.60),transparent 70%),
+  radial-gradient(34rem 26rem at 2% 100%,rgba(127,209,199,0.56),transparent 70%),
+  radial-gradient(22rem 16rem at 55% 0%,rgba(245,143,163,0.31),transparent 70%)}
+body .places{background-image:
+  radial-gradient(40rem 28rem at 0% 0%,rgba(157,183,255,0.50),transparent 70%),
+  radial-gradient(36rem 28rem at 100% 100%,rgba(255,184,107,0.50),transparent 70%),
+  radial-gradient(26rem 20rem at 100% 0%,rgba(245,143,163,0.34),transparent 70%)}
+body #altitude{background-image:
+  radial-gradient(40rem 26rem at 100% 0%,rgba(201,167,245,0.53),transparent 70%),
+  radial-gradient(38rem 26rem at 0% 100%,rgba(157,183,255,0.50),transparent 70%),
+  radial-gradient(26rem 20rem at 60% 100%,rgba(127,209,199,0.37),transparent 70%)}
+body .map-sec{background-image:
+  radial-gradient(40rem 26rem at 0% 0%,rgba(127,209,199,0.53),transparent 70%),
+  radial-gradient(38rem 26rem at 100% 100%,rgba(201,167,245,0.46),transparent 70%),
+  radial-gradient(24rem 18rem at 100% 0%,rgba(255,184,107,0.34),transparent 70%)}
+
+/* destination page sections */
+body .story{background-image:
+  radial-gradient(36rem 22rem at 100% 0%,rgba(255,184,107,0.56),transparent 70%),
+  radial-gradient(30rem 22rem at 0% 100%,rgba(245,143,163,0.40),transparent 70%)}
+body [aria-labelledby="g-h"]{background-image:
+  radial-gradient(40rem 28rem at 0% 0%,rgba(157,183,255,0.43),transparent 70%),
+  radial-gradient(38rem 28rem at 100% 55%,rgba(127,209,199,0.43),transparent 70%),
+  radial-gradient(30rem 22rem at 20% 100%,rgba(255,184,107,0.40),transparent 70%)}
+body .more{background-image:
+  radial-gradient(40rem 26rem at 100% 0%,rgba(245,143,163,0.43),transparent 70%),
+  radial-gradient(36rem 26rem at 0% 100%,rgba(255,184,107,0.46),transparent 70%),
+  radial-gradient(26rem 20rem at 50% 50%,rgba(157,183,255,0.25),transparent 70%)}
+
+/* thin colour strip at the top of the light sections */
+body .places::before,body #altitude::before,body .map-sec::before,body .more::before,body .story::before{
+  content:"";position:absolute;left:0;right:0;top:0;height:4px;background:var(--rainbow);pointer-events:none}
+
+/* the dark call-to-action band stays exactly as it was */
+body .cta{background-image:none}
+
+/* small colourful touches */
+body .featured .tag:nth-child(1){background:#FFE6C9;border-color:#FFCF98}
+body .featured .tag:nth-child(2){background:#D5F3EE;border-color:#A6E1D8}
+body .featured .tag:nth-child(3){background:#FDDDE4;border-color:#F8BBC9}
+body .chip:not([aria-pressed="true"]){background:rgba(255,255,255,.72)}
+body .chip:not([aria-pressed="true"]):hover{background:#FFF0DC;border-color:var(--sun)}
+</style>
