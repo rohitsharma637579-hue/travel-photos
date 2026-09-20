@@ -73,11 +73,11 @@
     "date": "",
     "story": "",
     "cover": "",
-    "photos": ["photos/Rishikesh/r1.jpg",
-      "photos/Rishikesh/r2.jpg",
-      "photos/Rishikesh/r3.jpg",
-      "photos/Rishikesh/r4.jpg",
-      "photos/Rishikesh/r5.jpg"]
+    "photos": ["photos/rishikesh/r1.jpg",
+      "photos/rishikesh/r2.jpg",
+      "photos/rishikesh/r3.jpg",
+      "photos/rishikesh/r4.jpg",
+      "photos/rishikesh/r5.jpg"]
   },
   {
     "id": "jaipur",
