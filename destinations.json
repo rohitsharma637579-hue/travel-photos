@@ -27,7 +27,13 @@
     "date": "",
     "story": "",
     "cover": "",
-    "photos": []
+    "photos": [
+      "photos/madhyamaheshwar/ma1.jpg",
+      "photos/madhyamaheshwar/ma2.jpg",
+      "photos/madhyamaheshwar/ma3.jpg",
+      "photos/madhyamaheshwar/ma4.jpg",
+      "photos/madhyamaheshwar/ma5.jpg"
+    ]
   },
   {
     "id": "tungnath",
