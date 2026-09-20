@@ -45,7 +45,11 @@
     "date": "",
     "story": "",
     "cover": "",
-    "photos": []
+    "photos": ["photos/tungnath/t1.jpg",
+      "photos/tungnath/t2.jpg",
+      "photos/tungnath/t3.jpg",
+      "photos/tungnath/t4.jpg",
+      "photos/tungnath/t5.jpg"]
   },
   {
     "id": "munsiyari",
