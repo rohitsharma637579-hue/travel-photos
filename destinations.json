@@ -51,7 +51,11 @@
     "date": "",
     "story": "",
     "cover": "",
-    "photos": []
+    "photos": ["photos/munsiyari/munsiyari1.jpg",
+      "photos/munsiyari/munsiyari2.jpg",
+      "photos/munsiyari/munsiyari3.jpg",
+      "photos/munsiyari/munsiyari4.jpg",
+      "photos/munsiyari/munsiyari5.jpg"]
   },
   {
     "id": "rishikesh",
