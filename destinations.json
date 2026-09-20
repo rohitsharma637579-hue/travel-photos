@@ -67,11 +67,11 @@
     "date": "",
     "story": "",
     "cover": "",
-    "photos": ["photos/kedarnath/r1.jpg",
-      "photos/kedarnath/r2.jpg",
-      "photos/kedarnath/r3.jpg",
-      "photos/kedarnath/r4.jpg",
-      "photos/kedarnath/r5.jpg"]
+    "photos": ["photos/Rishikesh/r1.jpg",
+      "photos/Rishikesh/r2.jpg",
+      "photos/Rishikesh/r3.jpg",
+      "photos/Rishikesh/r4.jpg",
+      "photos/Rishikesh/r5.jpg"]
   },
   {
     "id": "jaipur",
@@ -83,6 +83,11 @@
     "date": "",
     "story": "",
     "cover": "",
-    "photos": []
+    "photos": [ "photos/jaipur/j1.jpg",
+      "photos/jaipur/j2.jpg",
+      "photos/jaipur/j3.jpg",
+      "photos/jaipur/j4.jpg",
+      "photos/jaipur/j5.jpg"
+    ]]
   }
 ]
