@@ -9,7 +9,13 @@
     "date": "",
     "story": "",
     "cover": "",
-    "photos": []
+   "photos": [
+      "photos/kedarnath/kedarnath1.jpg",
+      "photos/kedarnath/kedarnath2.jpg",
+      "photos/kedarnath/kedarnath3.jpg",
+      "photos/kedarnath/kedarnath4.jpg",
+      "photos/kedarnath/kedarnath5.jpg"
+    ]
   },
   {
     "id": "madhyamaheshwar",
